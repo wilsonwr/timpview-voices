@@ -1,0 +1,39 @@
+site_name: Timpview Voices
+
+theme:
+        name: material
+        icon:
+                logo: fontawesome/solid/mountain
+        favicon: img/favicon-16x16.png
+        palette:
+                primary: light blue
+                scheme: default
+                accent: cyan
+        features:
+                - navigation.instant
+                - navigation.expand
+
+markdown_extensions:
+        - admonition
+        - meta
+        - attr_list
+        - pymdownx.emoji:
+                emoji_index: !!python/name:materialx.emoji.twemoji
+                emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+        - Home: 'index.md'
+        - Suggest a Guest: 'contact.md'
+        - Past Guests:
+                - Chalon Hutson: 'guests/chalon-hutson.md'
+
+extra:
+        social:
+                - icon: fontawesome/brands/twitter
+                  link: https://twitter.com/timpviewv
+                  name: Timpview Voices on Twitter
+
+extra_css:
+        - css/extra.css
+
+copyright: Copyright &copy; 2021 Billy Wilson
