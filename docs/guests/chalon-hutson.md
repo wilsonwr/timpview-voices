@@ -1,6 +1,6 @@
 # Chalon Hutson
 
-![Chalon Hutson](../img/chalon-hutson-photo-casual.jpg){: .center}
+![Chalon Hutson](../img/chalon-hutson-photo-casual.jpg){: .center style="width:450px"}
 
 
 <div id="buzzsprout-player-7096567"></div>
