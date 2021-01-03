@@ -31,6 +31,9 @@ nav:
 
 extra:
         social:
+                - icon: fontawesome/brands/facebook
+                  link: https://facebook.com/TimpviewVoices
+                  name: Timpview Voices on Facebook
                 - icon: fontawesome/brands/twitter
                   link: https://twitter.com/timpviewv
                   name: Timpview Voices on Twitter
