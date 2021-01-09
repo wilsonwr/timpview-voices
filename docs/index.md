@@ -20,11 +20,11 @@ The boundaries of the Timpview neighborhood extend west-to-east from Geneva Road
 
 This podcast is available on multiple platforms for your convenience. 
 
-| Platform                                  | Status       |
-| ----------------------------------------- | ------------ |
-| :fontawesome-brands-spotify: Spotify      | [Listen](https://open.spotify.com/show/5ROfEnCjeA0CUpRp1ZIdFD) |
-| :fontawesome-brands-itunes: Apple iTunes  | Under Review                                                   |
-| :material-google-podcast: Google Podcasts | Under Review                                                   |
+| Platform                                  | Status                                                                                            |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| :fontawesome-brands-spotify: Spotify      | [Listen](https://open.spotify.com/show/5ROfEnCjeA0CUpRp1ZIdFD)                                    |
+| :fontawesome-brands-itunes: Apple iTunes  | [Listen](https://podcasts.apple.com/us/podcast/timpview-voices/id1547120583)                      |
+| :material-google-podcast: Google Podcasts | [Listen](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNTIwMzAyLnJzcw) |
 
 If you would like us to publish to an additional platform, feel free to contact us.
 
