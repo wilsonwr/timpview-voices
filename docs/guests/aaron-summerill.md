@@ -10,7 +10,7 @@
     
     He is currently in college for the second time around finishing up his degree. While in school, he also plays wheelchair basketball for the University of Texas Arlington. He lives in Texas half the time and Utah the other half of the time. He is an avid college football fan. He loves to spend time with family and go four-wheeling, camping, anything outdoors and playing sports.
     
-    They have lived in the ward about three years and love all of their neighbors dearly. They feel that they literally have the best neighborhood.
+    They have lived in the Timpview neighborhood about three years and love all of their neighbors dearly. They feel that they literally have the best neighborhood.
 
 
 !!! tip ":electric_plug: Shameless Plug"
