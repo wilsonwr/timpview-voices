@@ -30,4 +30,9 @@ If you would like us to publish to an additional platform, feel free to contact 
 
 ## :star2: Acknowledgments
 
-A big thank you to Rebecca Pickett for joining us as our first co-host!
+Credit for the podcast jingle goes to [Senses Circuit](https://www.senses-circuit.com/?lang=en).
+
+Also, a big thank you to our co-hosts:
+
+* Rebecca Pickett
+* Macie Shirley
