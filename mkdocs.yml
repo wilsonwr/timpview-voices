@@ -25,6 +25,8 @@ nav:
         - Home: 'index.md'
         - Suggest a Guest: 'contact.md'
         - Past Guests:
+                - Mary Bekker: 'guests/mary-bekker.md'
+                - Kaylee Bullock: 'guests/kaylee-bullock.md'
                 - Aaron Summerill: 'guests/aaron-summerill.md'
                 - Jack Lott: 'guests/jack-lott.md'
                 - Chalon Hutson: 'guests/chalon-hutson.md'
