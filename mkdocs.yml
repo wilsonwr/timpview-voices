@@ -25,6 +25,7 @@ nav:
         - Home: 'index.md'
         - Suggest a Guest: 'contact.md'
         - Past Guests:
+                - Karen Pierotti: 'guests/karen-pierotti.md'
                 - Mary Bekker: 'guests/mary-bekker.md'
                 - Kaylee Bullock: 'guests/kaylee-bullock.md'
                 - Aaron Summerill: 'guests/aaron-summerill.md'
